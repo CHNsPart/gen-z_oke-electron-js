@@ -11,7 +11,9 @@ Gen-Z_oke is a Windows native app that generates jokes for the Gen-Z generation.
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/CHNsPart/gen-z_oke-electron-js/assets/58574102/b2a2f30b-9bc3-47ff-80ba-885a6aa9fade)
+
+
 
 ## Getting Started
 
